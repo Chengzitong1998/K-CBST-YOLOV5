@@ -1,0 +1,15 @@
+
+
+train: E:\yolo_transformer\DIOR-VOC\myyolo/train.txt
+val: E:\yolo_transformer\DIOR-VOC\myyolo/val.txt
+
+# number of classes
+nc: 20
+
+# class names
+names: ['airplane', 'airport', 'baseballfield', 'basketballcourt', 'bridge', 'chimney', 'dam',
+        'Expressway-Service-area', 'Expressway-toll-station', 'golffield', 'groundtrackfield', 'harbor',
+        'overpass', 'ship', 'stadium', 'storagetank', 'tenniscourt', 'trainstation', 'vehicle', 'windmill']
+
+
+
